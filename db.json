@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "name": "Avni",
+            "role": "Manager",
+            "address": "HYD"
+        },
+        {
+            "name": "Kaushal",
+            "role": "Learner",
+            "address": "HYD"
+        },
+        {
+            "name": "Madhulata",
+            "role": "Manager",
+            "address": "UP"
+        }
+    ]
+}
